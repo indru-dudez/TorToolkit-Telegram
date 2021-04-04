@@ -5,12 +5,12 @@ except:
         # TODO optimize for vps use fully - currently only heroku is focused
         # Set true if its VPS [currently not fully working]
         IS_VPS = False
-        API_HASH = "c3e3bdcaf3486d3222dcff67a6ea9a77"
-        API_ID = "1600667"
-        BOT_TOKEN = "1540012230:AAGPUnIgp4Ppwd6lqjb2zJ2R8-TUn2VRjjc"
-        BASE_URL_OF_BOT = "https://gautamleecherbot.herokuapp.com/"
+        API_HASH = "f08030f122370b15dbeaefb39cb0f693"
+        API_ID = "1555704"
+        BOT_TOKEN = "1745148853:AAFNsnkvlOquRVbW4aoQQ3-gPFwV3pImG48"
+        BASE_URL_OF_BOT = "https://yashdk-torren.herokuapp.com/"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [1030989359,-1001206349958]
+        ALD_USR = [686505963]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
@@ -39,13 +39,13 @@ except:
 
         # Will be enabled once its set
         # For vps change it to True if config loaded
-        RCLONE_ENABLED = True
+        RCLONE_ENABLED = False
 
         # If the user fails to select whether to use rclone or telegram to upload this will be the deafult.
         DEFAULT_TIMEOUT = "leech"
 
         # For vps set path here or you can use runtime too
-        RCLONE_CONFIG = True
+        RCLONE_CONFIG = False
         
         # Name of the RCLONE drive from the config
         DEF_RCLONE_DRIVE = "leech"
