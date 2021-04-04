@@ -7,10 +7,10 @@ except:
         IS_VPS = False
         API_HASH = "f08030f122370b15dbeaefb39cb0f693"
         API_ID = "1555704"
-        BOT_TOKEN = "1745148853:AAFNsnkvlOquRVbW4aoQQ3-gPFwV3pImG48"
+        BOT_TOKEN = "1543379359:AAGuCtUd0aw9uvHw8PYf-m8V1NdO4MM4GCo"
         BASE_URL_OF_BOT = "https://yashdk-torren.herokuapp.com/"
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [686505963]
+        ALD_USR = [686505963,-1001233965525]
         
         # Time to wait before edit message
         EDIT_SLEEP_SECS = 40
