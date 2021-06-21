@@ -8,8 +8,8 @@
       "3",
       "leecher"
     ],
-    "website": "https://github.com/indru-dudez/TorToolkit-Telegram/test",
-    "repository": "https://github.com/indru-dudez/TorToolkit-Telegram/test",
+    "website": "https://github.com/indru-dudez/TorToolkit-Telegram",
+    "repository": "https://github.com/indru-dudez/TorToolkit-Telegram",
     "stack": "container",
     "formation": {
       "worker": {
